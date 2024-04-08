@@ -4,8 +4,8 @@
 - 💞️ As a developer, my goal is to create applications that not only meet user needs but also provide an exceptional user experience. I am convinced that technology can enhance our daily lives, and I strive to contribute to this goal.
 - 📫 If you're looking for a passionate developer determined to contribute to the success of your project, feel free to reach out. I am always open to new collaborations and exciting challenges.
 
-https://www.linkedin.com/posts/cindy-silvestre_julien-thomas-ugcPost-7151927894531801088-Wm5M?utm_source=share&utm_medium=member_desktop
-https://www.linkedin.com/posts/julien-thomas-06262a2a_mode-demploi-la-nouvelle-alternance-de-activity-7150151530812248064-GAIC?utm_source=share&utm_medium=member_desktop
+- https://www.linkedin.com/posts/cindy-silvestre_julien-thomas-ugcPost-7151927894531801088-Wm5M?utm_source=share&utm_medium=member_desktop
+- https://www.linkedin.com/posts/julien-thomas-06262a2a_mode-demploi-la-nouvelle-alternance-de-activity-7150151530812248064-GAIC?utm_source=share&utm_medium=member_desktop
 <!---
 julien-thomas/julien-thomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
